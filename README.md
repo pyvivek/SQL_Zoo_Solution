@@ -4,5 +4,7 @@
 ## Sections:
 1. [0 SELECT basics](#0-select-basics)
 
+Pattern Matching Strings
+This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
 
 ![Screenshot 2024-04-04 005225](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/eca82588-a8fb-4373-aa26-79a79a63034e)
