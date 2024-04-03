@@ -4,6 +4,8 @@
 ## Sections:
 1. [0 SELECT basics](#0-select-basics)
 
+## 0 SELECT basics
+
 Pattern Matching Strings
 This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
 
