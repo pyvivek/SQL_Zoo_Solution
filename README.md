@@ -3,8 +3,9 @@
 
 ## Sections:
 1. [0 SELECT basics](#0-select-basics)
+2. [1 SELECT name](#0-select-name)
 
-## 0 SELECT basics
+## 1 SELECT name
 
 Pattern Matching Strings
 This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
@@ -22,3 +23,5 @@ This tutorial uses the LIKE operator to check names. We will be using the SELECT
 ![Screenshot 2024-04-04 010751](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/0afb9232-c858-4dd8-af46-f3abde7b9f7b)
 ![Screenshot 2024-04-04 010828](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/af320e4b-36ca-477d-89c5-86888482224f)
 ![Screenshot 2024-04-04 010846](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/7d3b4976-2871-4508-b367-41173acee393)
+![Screenshot 2024-04-04 142633](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/77a94bac-d3b5-4661-9537-94419320da26)
+![Screenshot 2024-04-04 142938](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/c95146b0-635e-4ec5-8226-659759ff69db)
