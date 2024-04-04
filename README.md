@@ -2,10 +2,14 @@
 [SQLZoo Practice](https://www.sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Sections:
-1. [0 SELECT basics](#0-select-basics)
-2. [1 SELECT name](#0-select-name)
+[1. SELECT name](#0-select-name)
 
-## 1 SELECT name
+## 1. SELECT name
+```
+sql
+  SELECT name, gdp/population FROM world
+    WHERE area > 5000000
+```
 
 Pattern Matching Strings
 This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
