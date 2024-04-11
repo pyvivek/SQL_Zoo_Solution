@@ -2,11 +2,11 @@
 [SQLZoo Practice](https://www.sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Sections:
-1. [SELECT name](#select-name)
+1. [SELECT name](#1-select-name)
 
-2. [SELECT World](#select-world)
+2. [SELECT World](#2-select-world)
 
-## SELECT name
+## 1. SELECT name
 
 Pattern Matching Strings
 This tutorial uses the LIKE operator to check names. We will be using the SELECT command on the table world:
@@ -28,7 +28,7 @@ This tutorial uses the LIKE operator to check names. We will be using the SELECT
 ![Screenshot 2024-04-04 142938](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/c95146b0-635e-4ec5-8226-659759ff69db)
 
 
-##  SELECT World
+## 2. SELECT World
 
 
 ![Screenshot 2024-04-12 005800](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/414dc84d-c78b-449c-bf6d-eeb927e1fdfe)
