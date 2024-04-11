@@ -2,9 +2,9 @@
 [SQLZoo Practice](https://www.sqlzoo.net/wiki/SQL_Tutorial)
 
 ## Sections:
-[1. SELECT name](#0-select-name)
+1. [SELECT name](#0-select-name)
 
-[2. SELECT World](#0-select-world)
+2. [SELECT World](#0-select-world)
 
 ## 1. SELECT name
 
