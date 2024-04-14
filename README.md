@@ -6,6 +6,8 @@
 
 2. [SELECT World](#2-select-world)
 
+3. [SELECT nobel](#3-select-nobel)
+
 ## 1. SELECT name
 
 Pattern Matching Strings
@@ -45,4 +47,26 @@ This tutorial uses the LIKE operator to check names. We will be using the SELECT
 ![Screenshot 2024-04-12 010023](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/81931380-388f-4f75-a4fd-c77253ac4a8e)
 ![Screenshot 2024-04-12 010039](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/4332fb5c-2b20-4f64-920c-cab210c04264)
 ![Screenshot 2024-04-12 010055](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/67f52796-8ac9-409f-8b0c-6eb2a1cd389b)
+
+
+## SELECT nobel
+![Screenshot 2024-04-14 125831](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/7fd26d9e-0a94-4a82-86e4-80a5468da537)
+![Screenshot 2024-04-14 125842](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/9012cc1c-b4ca-4b18-a8c2-b2bf63eda031)
+![Screenshot 2024-04-14 125859](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/6828e948-e9a3-4fbe-a512-2e3e854e3249)
+![Screenshot 2024-04-14 125907](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/06478eda-b63c-453b-9f80-c02fd559b3a3)
+![Screenshot 2024-04-14 125919](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/f70dc4de-9a57-4dfd-997a-51409baf2508)
+![Screenshot 2024-04-14 125932](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/f59d3809-2571-493c-908c-94f4ab9a15c5)
+![Screenshot 2024-04-14 125946](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/5cddbd01-95bf-4ea9-b293-1e59048ff067)
+![Screenshot 2024-04-14 130000](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/46c09c37-9e02-44e0-8c9c-e9512d022b4e)
+![Screenshot 2024-04-14 130016](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/80738d5d-6de5-4af4-9b52-34206092044d)
+![Screenshot 2024-04-14 130029](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/32185db3-095e-411c-b090-e42f9a27ffdb)
+![Screenshot 2024-04-14 130041](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/2b6e4d52-8c43-4dd9-bd20-9c268e7f5679)
+![Screenshot 2024-04-14 130052](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/594304c4-ad4a-4190-9134-103b347f0163)
+![Screenshot 2024-04-14 130111](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/674f5789-1623-412a-8922-ef3c32f631a6)
+![Screenshot 2024-04-14 130122](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/ad1c4a17-b0cb-4abe-a887-f6c4b25df351)
+![Screenshot 2024-04-14 130132](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/2f1a3d98-3773-412b-90a3-22f1b3edc897)
+![Screenshot 2024-04-14 130153](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/8e247fcb-8f81-4f54-96db-4efc71ab93de)
+
+
+
 
