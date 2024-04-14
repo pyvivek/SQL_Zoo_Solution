@@ -49,7 +49,7 @@ This tutorial uses the LIKE operator to check names. We will be using the SELECT
 ![Screenshot 2024-04-12 010055](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/67f52796-8ac9-409f-8b0c-6eb2a1cd389b)
 
 
-## SELECT nobel
+## 3. SELECT nobel
 ![Screenshot 2024-04-14 125831](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/7fd26d9e-0a94-4a82-86e4-80a5468da537)
 ![Screenshot 2024-04-14 125842](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/9012cc1c-b4ca-4b18-a8c2-b2bf63eda031)
 ![Screenshot 2024-04-14 125859](https://github.com/pyvivek/SQL_Zoo_Solution/assets/93245482/6828e948-e9a3-4fbe-a512-2e3e854e3249)
